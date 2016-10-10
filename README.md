@@ -10,4 +10,4 @@
 
 ## drupal
 
-- [Creeate keyboard shortcuts](https://www.drupal.org/project/keyboard_shortcut)
+- [Create keyboard shortcuts](https://www.drupal.org/project/keyboard_shortcut)
