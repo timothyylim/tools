@@ -11,6 +11,8 @@
 ## atom
 
 - Focus on tree ctrl-0
+* <kbd>alt-g up</kbd> to move the cursor to the previous diff in the editor
+* <kbd>alt-g down</kbd> to move the cursor to the next diff in the editor
 
 ## drupal
 
