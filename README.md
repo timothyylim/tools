@@ -8,6 +8,10 @@
 
 - Skip words with cmd
 
+## atom
+
+- Focus on tree ctrl-0
+
 ## drupal
 
 - [Create keyboard shortcuts](https://www.drupal.org/project/keyboard_shortcut)
