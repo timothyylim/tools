@@ -9,6 +9,7 @@
 ## unix
 
 - find a file [[1]](http://www.cyberciti.biz/faq/howto-find-a-file-under-unix/)
+- create a symbolic link to a file: ``` ln -s source_file myfile```
 
 ## iterm2
 
