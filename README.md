@@ -24,3 +24,7 @@
 ## drupal
 
 - [Create keyboard shortcuts](https://www.drupal.org/project/keyboard_shortcut)
+
+## vim
+
+- [Seven habits ...](http://www.moolenaar.net/habits.html)
