@@ -10,6 +10,7 @@
 
 - find a file [[1]](http://www.cyberciti.biz/faq/howto-find-a-file-under-unix/)
 - create a symbolic link to a file: ``` ln -s source_file myfile```
+- find a file then cd into it: ```find . -name "myfile.txt" | pbcopy``` then type ```cd``` and paste
 
 ## iterm2
 
