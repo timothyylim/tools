@@ -5,6 +5,7 @@
 - Squash commits together with rebase [[1]](http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html) [[2]](https://github.com/ginatrapani/todo.txt-android/wiki/Squash-All-Commits-Related-to-a-Single-Issue-into-a-Single-Commit)
 - [Checkout a specific branch](http://stackoverflow.com/questions/67699/how-to-clone-all-remote-branches-in-git)
 - [Create a branch from a branch](http://stackoverflow.com/questions/4470523/git-create-a-branch-from-another-branch)
+- List all remote branches: ```git branch -a```
 
 ## unix
 
