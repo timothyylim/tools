@@ -6,6 +6,7 @@
 - [Checkout a specific branch](http://stackoverflow.com/questions/67699/how-to-clone-all-remote-branches-in-git)
 - [Create a branch from a branch](http://stackoverflow.com/questions/4470523/git-create-a-branch-from-another-branch)
 - List all remote branches: ```git branch -a```
+- Stash all changes in subdirectories ```find . -maxdepth 1 -type d -exec sh -c '(cd {} && git pull)' ';'```
 
 ## unix
 
