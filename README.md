@@ -17,6 +17,7 @@
 ## iterm2
 
 - Skip words with cmd
+- Delete iterm2 preferences ```defaults delete com.googlecode.iterm2```
 
 ## atom
 
