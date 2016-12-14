@@ -7,6 +7,11 @@
 - [Create a branch from a branch](http://stackoverflow.com/questions/4470523/git-create-a-branch-from-another-branch)
 - List all remote branches: ```git branch -a```
 - Stash all changes in subdirectories ```find . -maxdepth 1 -type d -exec sh -c '(cd {} && git stash)' ';'```
+- Stash all changes and set all to master branch:
+```
+find . -maxdepth 1 -type d -exec sh -c '(cd {} && git stash)' ';'
+find . -maxdepth 1 -type d -exec sh -c '(cd {} && git checkout master)' ';'
+```
 
 ## unix
 
