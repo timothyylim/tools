@@ -33,7 +33,9 @@ find . -maxdepth 1 -type d -exec sh -c '(cd {} && git checkout master)' ';'
 ## drupal
 
 - [Create keyboard shortcuts](https://www.drupal.org/project/keyboard_shortcut)
+- clone is at the bottom of the page
 
 ## vim
 
 - [Seven habits ...](http://www.moolenaar.net/habits.html)
+
