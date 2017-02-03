@@ -5,3 +5,5 @@ https://markwilkinson.me/2014/01/wordpress-multisite-locally-using-mamp/
 http://www.hongkiat.com/blog/wordpress-multisite-with-mamp/
 
 http://foundationphp.com/tutorials/vhosts_mamp.php
+
+http://www.wpbeginner.com/beginners-guide/step-by-step-guide-to-install-a-wordpress-plugin-for-beginners/
