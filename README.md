@@ -38,4 +38,4 @@ find . -maxdepth 1 -type d -exec sh -c '(cd {} && git checkout master)' ';'
 ## vim
 
 - [Seven habits ...](http://www.moolenaar.net/habits.html)
-
+- [Copying to multiple registers](https://ariejan.net/2010/08/09/using-multiple-clipboards-in-vim/)
